@@ -2,6 +2,9 @@
 
 ## Revenue Revival: Atliq Hardware's Sales Insights
 
+![thumb](https://github.com/davender-singh1/Data_Analysis_ProjectsHub/assets/106000634/8adf9249-3e06-40d1-a20c-a0e2a6771af9)
+
+
 ### Instructions to setup mysql on your local computer
 
 1. Follow step in this video to install mysql on your local computer
