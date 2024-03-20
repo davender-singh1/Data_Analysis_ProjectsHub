@@ -2,6 +2,9 @@
 
 ![image](https://github.com/davender-singh1/Data_Analysis_ProjectsHub/assets/106000634/47557bee-5657-49e2-b912-dea4c1ed1345)
 
+### Link to my Video:
+https://youtu.be/5YBtAQN5tjE?si=bxGYlnXu_bfOa8wj
+
 
 ### Link to Power BI report: 
 https://app.powerbi.com/links/vMgAG6l9td?ctid=eb34f74a-58e7-4a8b-9e59-433e4c412757&pbi_source=linkShare&bookmarkGuid=136fa111-1566-4c5d-91e8-4e088e80bbef
